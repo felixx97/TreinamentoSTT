@@ -1,6 +1,11 @@
 @media screen and (max-width: 760px){
+    body{
+        margin: 0 auto;
+    }
     header{
         flex-direction: column; 
+        justify-content: center;
+        align-items: center;
     }
     main{
         flex-direction: column;
@@ -21,10 +26,9 @@
     }
     img{
         display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+        width: 100px;
         margin-top: 50px; 
+        padding-left: 0px;
     }
     ul{
         text-align: center;
