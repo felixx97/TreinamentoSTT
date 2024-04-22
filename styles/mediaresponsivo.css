@@ -1,17 +1,24 @@
 @media (max-width: 526px){
     body{
+<<<<<<< HEAD
         width: 400px;
+=======
+>>>>>>> c9e505995f94cda08e8a164e06b77c16f06a1d67
         margin: 0 auto;
         padding-left: 10px;
         padding-right: 10px;
     }
     header{
         margin: 0 auto;
+<<<<<<< HEAD
     }
     main{
         padding: 0px;
         
         align-items: start;
+=======
+        
+>>>>>>> c9e505995f94cda08e8a164e06b77c16f06a1d67
     }
     ul{
         padding: 0;
@@ -19,6 +26,7 @@
     h1{
         font-size: 20px;
     }
+<<<<<<< HEAD
     h3{
         font-size: 35px;
         padding-bottom: 20px;
@@ -26,11 +34,15 @@
         padding-right: 20px;
     }
     aside img{
+=======
+    img{
+>>>>>>> c9e505995f94cda08e8a164e06b77c16f06a1d67
         display: none;
     }
     p{
         text-align: center;
     }
+<<<<<<< HEAD
     div p{
         text-align: justify;
     }
@@ -43,4 +55,7 @@
     button{
         width: 100%;
     }
+=======
+    
+>>>>>>> c9e505995f94cda08e8a164e06b77c16f06a1d67
 }
