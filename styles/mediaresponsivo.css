@@ -1,0 +1,46 @@
+@media (max-width: 526px){
+    body{
+        width: 400px;
+        margin: 0 auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    header{
+        margin: 0 auto;
+    }
+    main{
+        padding: 0px;
+        
+        align-items: start;
+    }
+    ul{
+        padding: 0;
+    }
+    h1{
+        font-size: 20px;
+    }
+    h3{
+        font-size: 35px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    aside img{
+        display: none;
+    }
+    p{
+        text-align: center;
+    }
+    div p{
+        text-align: justify;
+    }
+    div img{
+        width: 70%;
+        margin: 0 auto;
+        padding: 10px;
+        border-radius: 25px;
+    }
+    button{
+        width: 100%;
+    }
+}
